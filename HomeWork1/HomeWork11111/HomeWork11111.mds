@@ -87,13 +87,15 @@
 			<Node name="homework11111.mds.tcls"/>
 			<Node name="keywordtests\keywordtests.tckdt"/>
 			<Node name="keywordtests\test3.tckdtest"/>
+			<Node name="keywordtests\test4.tckdtest"/>
+			<Node name="keywordtests\test5.tckdtest"/>
 			<Node name="keywordtests\test7.tckdtest"/>
 			<Node name="namemapping\namemapping.tcnm"/>
+			<Node name="script\jhh.sj"/>
 			<Node name="script\script.tcscript"/>
 			<Node name="script\unit2.sj"/>
 			<Node name="stores\dbtables\dbtables.tcdb"/>
 			<Node name="stores\files.tcfiles"/>
-			<Node name="stores\files\test1.txt"/>
 			<Node name="stores\objects.tcobjects"/>
 			<Node name="stores\regions.tcregions"/>
 			<Node name="stores\stores.tcstores"/>

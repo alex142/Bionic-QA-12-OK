@@ -26,6 +26,9 @@
 			<Node name="{64df15ea-1427-426a-9158-25ee54b7d207}">
 				<Prp name="relpath" type="S" value="HomeWork11111\HomeWork11111.mds.tcLS"/>
 			</Node>
+			<Node name="{c865999e-155c-44e9-ad5a-ab9164d62266}">
+				<Prp name="relpath" type="S" value="HomeWork 2\HomeWork 2.mds.tcLS"/>
+			</Node>
 			<Node name="logs">
 				<Prp name="key" type="S" value="{37D707FB-FF47-4E81-BEBF-4DACD0211196}"/>
 				<Prp name="relpath" type="S" value="Log"/>

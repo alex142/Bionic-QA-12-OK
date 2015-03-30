@@ -22,19 +22,19 @@
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Test7.tcKDTest"/>
+					<Prp name="relpath" type="S" value="Test1.tcKDTest"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{3B39D464-FB9F-4D62-9259-2EBF1DE4D19E}"/>
+				<Prp name="key" type="S" value="{52FC905F-E6E8-4164-B84B-F3B972BC754E}"/>
 				<Prp name="type" type="S" value="{B9D9273E-7266-43E0-BF02-97F168593604}"/>
 				<Prp name="typename" type="S" value="Keyword Test"/>
 			</Node>
 			<Node name="item0000000001">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Test3.tcKDTest"/>
+					<Prp name="relpath" type="S" value="Test2.tcKDTest"/>
 				</Node>
 				<Prp name="index" type="I" value="1"/>
-				<Prp name="key" type="S" value="{6382CCC7-2793-44BB-A867-6B5B89C7B8ED}"/>
+				<Prp name="key" type="S" value="{754843D5-7EA0-4333-9CE3-569D1C050EF2}"/>
 				<Prp name="type" type="S" value="{B9D9273E-7266-43E0-BF02-97F168593604}"/>
 				<Prp name="typename" type="S" value="Keyword Test"/>
 			</Node>

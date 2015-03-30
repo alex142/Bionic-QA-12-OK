@@ -24,10 +24,14 @@
 				<Node name="{02542b04-194a-4903-b727-27ddea5f3f24}"/>
 			</Node>
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{BE595E1C-9E85-4A56-B423-16C9671023D3}"/>
+				<Prp name="activity" type="S" value="{E8866749-DC05-452F-B96E-FAACD1A007A0}"/>
 				<Prp name="default project" type="S" value="{88416A09-CF4D-4420-B332-B4618CDF5CD3}"/>
 			</Node>
-			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
+			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
+				<Node name="{1dca5661-6fd2-45bf-8c4f-47f94d635893}">
+					<Prp name="hash" type="I" value="1"/>
+				</Node>
+			</Node>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
 				<Node name="workspace">
 					<Node name="0">
@@ -38,32 +42,39 @@
 					</Node>
 					<Node name="1">
 						<Node name="editor">
+							<Prp name="editor" type="S" value="{BA794E7F-BDDB-4EBD-BE1C-18A2A554A447}"/>
+						</Node>
+						<Prp name="edititem" type="S" value="{25C37806-ADF4-46DA-8ACE-9899FCA45EC6}"/>
+					</Node>
+					<Node name="2">
+						<Node name="editor">
+							<Node name="0"/>
 							<Prp name="editor" type="S" value="{F25767FD-EC87-46FE-B60A-FAD719B215D9}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{3ED92FB2-D163-4FFF-8E5D-86858FE2AF4B}"/>
 					</Node>
-					<Node name="2">
+					<Node name="3">
+						<Node name="editor">
+							<Node name="0">
+								<Prp name="col" type="I" value="88"/>
+								<Prp name="line" type="I" value="19"/>
+								<Prp name="sellength" type="I" value="0"/>
+								<Prp name="selstart" type="I" value="659"/>
+								<Prp name="windowchar" type="I" value="0"/>
+								<Prp name="windowline" type="I" value="14"/>
+							</Node>
+							<Prp name="editor" type="S" value="{0F162F12-477F-48BD-8B28-2365278A549C}"/>
+						</Node>
+						<Prp name="edititem" type="S" value="{BE595E1C-9E85-4A56-B423-16C9671023D3}"/>
+					</Node>
+					<Node name="4">
 						<Node name="editor">
 							<Node name="0"/>
 							<Prp name="editor" type="S" value="{215C4434-BD64-4047-8DAA-3BC62F9DB5E8}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{E8866749-DC05-452F-B96E-FAACD1A007A0}"/>
 					</Node>
-					<Node name="3">
-						<Node name="editor">
-							<Node name="0">
-								<Prp name="col" type="I" value="58"/>
-								<Prp name="line" type="I" value="28"/>
-								<Prp name="sellength" type="I" value="0"/>
-								<Prp name="selstart" type="I" value="1124"/>
-								<Prp name="windowchar" type="I" value="0"/>
-								<Prp name="windowline" type="I" value="0"/>
-							</Node>
-							<Prp name="editor" type="S" value="{0F162F12-477F-48BD-8B28-2365278A549C}"/>
-						</Node>
-						<Prp name="edititem" type="S" value="{BE595E1C-9E85-4A56-B423-16C9671023D3}"/>
-					</Node>
-					<Prp name="docking" type="H" value="617162696EB92611010000009A0300007801730C74F177F6E664800231207D9A9981811788098340A8AA3BDECFDEBBB77E745EDC79FD4AE91B594E4609A004486E47ABB346295798DBAC1389C51AEC1B354D191918A240E6B23230C0342359C382C4C6CAFC0F058780E69C00AA40E763D5041304993E0BCAD1DB7B66E38E2B693EEB8E0884F0BA2F530439AC082487EE30209F2124B5B8C4908181B6AE0359BE004400C1DFF4F04FED6FFEB96DE3FA755D7293E84D9CAEE3062AF64BCC4DF54D2C28C8CC4BA7871B612128A42FC65FEFBED7A35B433955BD2B640E4E37824230342F933E2108739D894B8C62CA5E7787DE55D6C7F4E76E7D81D7756E9939A9C5F4083B2650E4120B008631A09F"/>
+					<Prp name="docking" type="H" value="617162696EB92611010000003D0400007801730C74F177F6E664800231207D9A998181178809832F505577BC9FBD776FFDE8BCB8F3FA95D237B29C8CBB811220B91DADCE1AA55C616EB34E24166BB06FD434656460880299CBCAC0108869050B212BFF43C121A03927808AD1F978F503ED64980F5551EF57B9EBF6DEBD7EFB6424162D0D59E20E725811480EDD615C40B1E092C4A2128580C4F4540606DA3A11E48259200208F4F69ED9B8E34A9ACFBA230221BCEECB14713A11E4AF90D4E212437AB86E01C86940F0373DFC53FB9B7F6EDBB87E5D97DC247A13A7EBB8818AFD1273537D130B0A32F3D2E9E14658080AE98BF1D7BBEFF5E8D6504E55EF0A9983D38DA0100CCDCBA44F08C25C67E212A398B2D7DDA17795F531FDB95B5FE0759D5B664E6A313DC28E60FA06453E0C0000C59AC262"/>
 					<Prp name="enabled" type="B" value="0"/>
 				</Node>
 			</Node>
